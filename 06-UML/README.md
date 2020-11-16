@@ -1,1 +1,1 @@
-Twórcy: Joanna Bronka, Jakub Różycki Indeksy: 141024, 141105
+#Twórcy: Joanna Bronka, Jakub Różycki Indeksy: 141024, 141105

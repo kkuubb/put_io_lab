@@ -57,7 +57,7 @@
     <Sequence>2</Sequence>
     <Complexity />
     <DateAdded>2020-11-09T14:54:17.4394021+01:00</DateAdded>
-    <DateModified>2020-11-09T16:15:33.3714739+01:00</DateModified>
+    <DateModified>2020-11-16T14:11:38.5742141+01:00</DateModified>
   </Actor>
   <Goal>
     <UniqueID>G-4b9e6429-69e3-411d-9df4-bce1bab9f4b4</UniqueID>
@@ -121,6 +121,39 @@
     <RichDescription>{\rtf1\ansi\ansicpg1250\deff0\deflang1045{\fonttbl{\f0\fnil\fcharset238 Segoe UI;}}
 {\colortbl ;\red0\green0\blue255;}
 \viewkind4\uc1\pard\f0\fs20 Koniec przypadku u\'bfycia (\cf1\ul UC-3\cf0\ulnone )\par
+}
+</RichDescription>
+    <Sequence>2</Sequence>
+  </Goal>
+  <Goal>
+    <UniqueID>G-2460a272-d538-4bc0-acd3-cde84b4ec6c9</UniqueID>
+    <ParentID>A-55b6451a-604a-4e0a-97f4-58f0696ac518</ParentID>
+    <Description>System płatności otrzymuje propozycje od Kupujący</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1250\deff0\deflang1045{\fonttbl{\f0\fnil\fcharset238 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 System p\'b3atno\'9cci\cf2\ulnone  otrzymuje propozycje od \cf1\ul Kupuj\'b9cy\cf0\ulnone\par
+}
+</RichDescription>
+    <Sequence>0</Sequence>
+  </Goal>
+  <Goal>
+    <UniqueID>G-6770725a-ee5c-4051-9ee1-fd61e466c5de</UniqueID>
+    <ParentID>A-55b6451a-604a-4e0a-97f4-58f0696ac518</ParentID>
+    <Description>System płatności rozstrzyga który Kupujący wygrywa Aukcję</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1250\deff0\deflang1045{\fonttbl{\f0\fnil\fcharset238 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;\red128\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 System p\'b3atno\'9cci\cf2\ulnone  rozstrzyga kt\'f3ry \cf1\ul Kupuj\'b9cy\cf2\ulnone  wygrywa \cf3 Aukcj\'ea\cf0\par
+}
+</RichDescription>
+    <Sequence>1</Sequence>
+  </Goal>
+  <Goal>
+    <UniqueID>G-c92e7c92-c0f6-479a-bd76-2f868646f9d8</UniqueID>
+    <ParentID>A-55b6451a-604a-4e0a-97f4-58f0696ac518</ParentID>
+    <Description>System płatności przekazuję kwota do Sprzedający</Description>
+    <RichDescription>{\rtf1\ansi\ansicpg1250\deff0\deflang1045{\fonttbl{\f0\fnil\fcharset238 Segoe UI;}}
+{\colortbl ;\red0\green0\blue255;\red0\green0\blue0;\red128\green0\blue0;}
+\viewkind4\uc1\pard\cf1\ul\f0\fs20 System p\'b3atno\'9cci\cf2\ulnone  przekazuj\'ea \cf3 kwota\cf2  do \cf1\ul Sprzedaj\'b9cy\cf0\ulnone\par
 }
 </RichDescription>
     <Sequence>2</Sequence>

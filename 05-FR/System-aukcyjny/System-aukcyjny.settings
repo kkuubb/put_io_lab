@@ -100,6 +100,6 @@
     <string>System-aukcyjny\Diagramy</string>
     <string>System-aukcyjny\Reguły biznesowe i słownik</string>
   </ExpandedNodes>
-  <SelectedNode>System-aukcyjny\Aktorzy\Kupujący</SelectedNode>
+  <SelectedNode>System-aukcyjny\Diagramy\Diagram kontekstu</SelectedNode>
   <Flags />
 </ModelSettings>

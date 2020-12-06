@@ -1,0 +1,18 @@
+1 - Decorator - strukturalny
+2 - component
+3 - decorator
+4 - InputStream in 
+5 - InputStream in, Checksum cksum
+6 - Checksum, Checksum
+7 - File
+8 - ConcreteComponent
+9 - ConcreteDecorator
+10 - Composite
+11 - Composite
+12 - Observer
+13 - Subject
+14.1 - Listener , MouseListener
+14.2 - Listener , ActionListener
+15 - MouseListener
+16 - ActionListener
+17 - Observer
